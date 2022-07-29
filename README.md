@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alexey
-##### I am ML Engineer from Saint-Petersburg. Currently studying in ITMO University. I'm interested in neural networks
+##### I am ML Engineer from Saint-Petersburg. Currently studying in ITMO University. I'm interested in neural networks and yummy RAF :)
 
 Skills: Python / PyTorch / SciPy / Sklearn 
 
@@ -18,7 +18,7 @@ Online courses certificates:
 8) <a href="https://stepik.org/cert/1037572">Программирование на Python</a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Myashka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/myashkalol/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Myashka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/myashkalol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/myashka29)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myashka)](https://github.com/anuraghazra/github-readme-stats)
 
