@@ -3,7 +3,7 @@
 
 Skills: Python / PyTorch / SciPy / Sklearn / SQL / NLP / RL / CV
 
-- 🌱 I’m currently learning Reinforcement learning and CV
+- 🌱 I’m currently learning Statistics and CV
 - 📘 Also I’m learning <a href="https://stepik.org/course/150/">Системы для обработки больших данных</a>
 
 Online courses certificates:
