@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alexey
-##### I am ML Engineer from Saint-Petersburg. Currently studying in ITMO University. I'm interested in neural networks and yummy raf :)
+##### I am  NLP ML Engineer from Saint-Petersburg. Currently studying and working in ITMO University. I'm interested in neural networks and yummy raf :)
 
-Skills: Python / PyTorch / SciPy / Sklearn / SQL / NLP / RL / CV
+Skills: NLP / Python / PyTorch / SciPy / Sklearn / SQL / RL / CV
 
 - 🌱 I’m currently learning Statistics and CV
 - 📘 Also I’m learning <a href="https://stepik.org/course/150/">Системы для обработки больших данных</a>
