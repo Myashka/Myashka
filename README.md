@@ -8,17 +8,19 @@ I'm deeply interested in **LLM alignment** in the broadest sense — including *
 
 #### Connect with me
 
-<a href="https://github.com/Myashka">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/myashkalol/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="24">
-</a>
-&nbsp;
-<a href="https://t.me/myashka29">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="24">
-</a>
+<p align="left">
+  <a href="https://github.com/Myashka" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/myashkalol/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/myashka29" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" alt="Telegram" width="24" height="24"/>
+  </a>
+</p>
 
 ---
 
